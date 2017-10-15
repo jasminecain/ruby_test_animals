@@ -1,4 +1,4 @@
-#Testing the Animals
+# Testing the Animals
 
 Note: This code exercise will be part of a live coding session with the instructor. Feel free to try it on your own beforehand and come to class with questions, or just wait until live coding starts.
 Setup
