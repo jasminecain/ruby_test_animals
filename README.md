@@ -28,4 +28,5 @@ The dog object is an instance of Dog.
 ### To Run
 
 ```bash
-ruby test_animals.rb```
+ruby test_animals.rb
+```
